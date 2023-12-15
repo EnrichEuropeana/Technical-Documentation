@@ -25,6 +25,7 @@ Technical documentation for enhanced user experience in front-end application: [
 **V2**
 
 HTR Plugin: [MS2 EnrichEuropeana HTR Plugin.pdf](V2/MS2%20EnrichEuropeana%2B%20HTR%20Plugin.pdf)
+HTR Plugin: [Source Code Repository](https://gitlab.com/readcoop/webdev/public/transkribus-editor) 
 
 HTR Integration: [MS4 - First Release of HTR Services.pdf](https://github.com/EnrichEuropeana/Technical-Documentation/blob/master/V2/MS4%20-%20First%20Release%20of%20HTR%20Services.pdf)
 
