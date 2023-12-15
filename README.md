@@ -22,7 +22,7 @@ Technical documentation for enhanced user experience in front-end application: [
 V2 
 HTR Plugin: [MS2 EnrichEuropeana HTR Plugin.pdf](V2/MS2%20EnrichEuropeana%2B%20HTR%20Plugin.pdf)
 
-HTR Integration: [MS4 - First Release of HTR Services.pdf](V2/MS4 - First Release of HTR Services.pdf)
+HTR Integration: ([MS4 - First Release of HTR Services.pdf](https://github.com/EnrichEuropeana/Technical-Documentation/blob/master/V2/MS4%20-%20First%20Release%20of%20HTR%20Services.pdf))
 
 External HTR API: [Transkribus HTR API](https://readcoop.eu/transkribus/docu/rest-api/htr-api/) 
 
@@ -33,10 +33,10 @@ V1
 
 Technical documentation for the first version of the API: [MS2_automatic_enrichment_FINAL.pdf](V1/MS2_automatic_enrichment_FINAL.pdf)
 
-Technical documentation for the final version of the API: [MS7_final_version_of_semantic_enrichment.pdf](V1/MS7_final_version_of_semantic_enrichment.pdf)
+Technical documentation for the version 1 of the API: [MS7_final_version_of_semantic_enrichment.pdf](V1/MS7_final_version_of_semantic_enrichment.pdf)
 
 V2
-Technical documentation for the final version of the API: [MS8 - Final release of Enrichment Services.pdf](V2/MS8 - Final release of Enrichment Services.pdf)
+Technical documentation for the version 2 of the API: [MS8 - Final release of Enrichment Services.pdf](V2/MS8 - Final release of Enrichment Services.pdf)
 
 
 ## Data Exchange infrastructure (DEI)
